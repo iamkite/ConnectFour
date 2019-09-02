@@ -1,7 +1,6 @@
-Connect Four by 4Á¶
-ÇÁ·Î±×·¥ ¾ğ¾î : python3.7.3
-µ¿ÀÛ OS : windows 10
+Connect Four by 4ì¡°
+í”„ë¡œê·¸ë¨ ì–¸ì–´ : python3.7.3
+ë™ì‘ OS : windows 10
 Requirements : numpy 1.16.2, pygame 1.9.5
-ÆÄÀÏ Çü½Ä: ipynb (Jupyter notebook)
-
-
+íŒŒì¼ í˜•ì‹: ipynb (Jupyter notebook)  
+2019 1í•™ê¸° ì´ìˆ˜ë¯¼ ê¹€ë‚˜ì—°
